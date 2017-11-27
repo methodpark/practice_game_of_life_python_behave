@@ -1,6 +1,6 @@
 = Fork of Corey Haines' Game of Life Cucumber Features for Python-Behave
 
-Instead of the usual Ruby toochain, this repo is set up for [Python-Behave](https://pythonhosted.org/behave/)
+Instead of the usual Ruby toochain, this repo is set up for Python-Behave[https://pythonhosted.org/behave/].
 
 ---
 
